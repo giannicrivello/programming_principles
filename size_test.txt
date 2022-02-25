@@ -1,0 +1,12 @@
+total 416
+drwxr-xr-x   11 giannicrivello  staff   352B Feb 24 15:16 .
+drwxr-xr-x@ 208 giannicrivello  staff   6.5K Feb 24 15:16 ..
+drwxr-xr-x    9 giannicrivello  staff   288B Feb 24 00:40 .git
+-rwxr-xr-x    1 giannicrivello  staff    54K Feb 24 01:03 drill01
+-rw-r--r--    1 giannicrivello  staff    92B Feb 24 01:02 drill01.cpp
+-rwxr-xr-x    1 giannicrivello  staff    59K Feb 24 01:39 drill02
+-rw-r--r--    1 giannicrivello  staff   280B Feb 24 02:09 drill02.cpp
+-rwxr-xr-x    1 giannicrivello  staff    69K Feb 24 13:07 grammarcheck_simple
+-rw-r--r--    1 giannicrivello  staff   175B Feb 24 13:25 grammarcheck_simple.cpp
+-rw-r--r--    1 giannicrivello  staff     0B Feb 24 15:16 size_test.txt
+-rw-r--r--    1 giannicrivello  staff   5.1K Feb 24 01:01 std_lib_facilities.h
